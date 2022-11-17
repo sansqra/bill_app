@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108215374164",
+    "project_id": "billy-man",
+    "storage_bucket": "billy-man.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108215374164:android:8b9d80e32c20df496178c1",
+        "android_client_info": {
+          "package_name": "com.example.kf_biller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108215374164-tsjgaaa451kavamntsqk50nejdp29ioi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjxwphJ2wiB5uBU_5A-RONyss6PhvOpZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108215374164-tsjgaaa451kavamntsqk50nejdp29ioi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
